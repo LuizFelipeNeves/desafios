@@ -30,3 +30,7 @@ A implementação deve ficar na pasta correspondente ao desafio. Fique à vontad
 Caso queira mais detalhes de como trabalhamos, quais são nossos valores e ideais, confira a página [Carreira IDwall](https://idwall.co/carreira) e mesmo que seu perfil não esteja listado nas vagas em aberto, lhe encorajamos a mandar seu CV! Valorizamos bons profissionais sempre e gostamos de manter contato com gente boa.
 
 Boas implementações! 🎉
+
+## Resolução
+1. [Manipulação de strings](./strings)
+2. [Crawlers](./crawlers)
