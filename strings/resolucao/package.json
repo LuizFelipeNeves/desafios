@@ -1,0 +1,14 @@
+{
+  "name": "node-sandbox",
+  "version": "1.0.0",
+  "description": "strings",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  }
+}

@@ -32,5 +32,5 @@ Caso queira mais detalhes de como trabalhamos, quais são nossos valores e ideai
 Boas implementações! 🎉
 
 ## Resolução
-1. [Manipulação de strings](./strings)
-2. [Crawlers](./crawlers)
+1. [Manipulação de strings](./strings/resolucao)
+2. [Crawlers](./crawlers/resolucao)
