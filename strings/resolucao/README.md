@@ -14,19 +14,35 @@ Caso já possua um JDK instalado em seu ambiente, deverá te retornar algo assim
     $ npm install
     $ npm start
 
-É esperado como retorno, o texto formatado, conforme o limite de 40 caractere por linha, e justificado:
+É esperado como retorno, o texto formatado, conforme o limite de 40 caractere por linha, e logo em seguida justificado.
 
     In the beginning God created the heavens
-    and   the   earth.  Now  the  earth  was
-    formless  and  empty,  darkness was over
-    the  surface of the deep, and the Spirit
-    of  God  was  hovering  over the waters.
+    and the earth. Now the earth was
+    formless and empty, darkness was over
+    the surface of the deep, and the Spirit
+    of God was hovering over the waters.
 
 
-    And  God said, "Let there be light," and
+    And God said, "Let there be light," and
+    there was light. God saw that the light
+    was good, and he separated the light
+    from the darkness. God called the light
+    "day," and the darkness he called
+    "night." And there was evening, and
+    there was morning - the first day.
+
+
+    In the beginning God created the heavens
+    and   the earth.  Now    the  earth  was
+    formless and  empty,  darkness was  over
+    the surface of  the deep, and the Spirit
+    of   God was  hovering  over the waters.
+
+
+    And God said, "Let there  be light," and
     there  was light. God saw that the light
-    was  good,  and  he  separated the light
-    from  the darkness. God called the light
-    "day,"   and   the  darkness  he  called
+    was good, and   he separated   the light
+    from the  darkness. God called the light
+    "day,"   and the    darkness  he  called
     "night."  And  there  was  evening,  and
-    there  was  morning  -  the  first  day.
+    there   was  morning  -  the first  day.
