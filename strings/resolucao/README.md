@@ -1,9 +1,4 @@
-# Solução de Desafios
-
-Aqui estão as soluções dos desafios para a primeira fase de testes de candidatos da IDwall.  
-
-1. [Manipulação de strings](./strings)
-2. [Crawlers](./crawlers)
+# Solução: Manipulação de strings
 
 ## Pré-requisitos
 1- Possuir o Nodejs Instalado [Node.js](https://nodejs.org/en/)(10x+) instalado no seu ambiente. Você pode verificar se o possui abrindo o seu terminal e digitando o seguinte comando:
