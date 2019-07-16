@@ -47,13 +47,11 @@ Caso já possua um JDK instalado em seu ambiente, deverá te retornar algo assim
     "night."  And  there  was  evening,  and
     there   was  morning  -  the first  day.
 
-
-
 ## PARÂMETROS
 PARAM  | PARAM DESCRIPTION | PARAM TYPE | DEFAULT VALUE
 -------|-------------------|------------|--------------
 text | text to format | string | In the beginning God created the heavens...
 limit | limit to text format - [length of line] | number| 40
-
-## Exemplo de saida
-<img src ="./print.png" />
+   
+Exemplo:
+    $ npm start 'Olá mundo' 3
