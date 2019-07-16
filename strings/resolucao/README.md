@@ -53,9 +53,7 @@ Caso já possua um JDK instalado em seu ambiente, deverá te retornar algo assim
 PARAM  | PARAM DESCRIPTION | PARAM TYPE | DEFAULT VALUE
 -------|-------------------|------------|--------------
 text | text to format | string | In the beginning God created the heavens...
-limit | limite to text format - [length of line] | number| 40
+limit | limit to text format - [length of line] | number| 40
 
 ## Exemplo de saida
-<p align="center">
-    <img src ="./print.png" />
-</p>
+<img src ="./print.png" />
