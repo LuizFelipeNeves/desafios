@@ -55,3 +55,6 @@ limit | limit to text format - [length of line] | number| 40
    
 Exemplo:
     $ npm start 'Olá mundo' 3
+ 
+## Exemplo de saída com texto padrão
+<img src ="./print.png" />
