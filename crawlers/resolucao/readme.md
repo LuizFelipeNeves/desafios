@@ -24,7 +24,7 @@ BOT_TOKEN=Seu Token aqui..
 
 Logo em seguida o bot enviará uma resposta, como no exemplo abaixo:
 
-upvotes: 8679 
+```upvotes: 8679 
  subreddit: cats 
  title: My crazy cat every time I change sheet 
  comments: https://old.reddit.com/r/cats/comments/cdwdcg/my_crazy_cat_every_time_i_change_sheet/ 
@@ -41,3 +41,4 @@ upvotes: 17679
  title: RIP Beau, front page cat for a day 
  comments: https://old.reddit.com/r/cats/comments/cdl4df/rip_beau_front_page_cat_for_a_day/ 
  thread: https://old.reddit.com/r/cats/comments/cdl4df/rip_beau_front_page_cat_for_a_day/
+```
