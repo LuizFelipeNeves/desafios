@@ -2,8 +2,8 @@
 
 Aqui estão as soluções dos desafios para a primeira fase de testes de candidatos da IDwall.  
 
-1. [Manipulação de strings](https://github.com/YuriCordeiro/desafios/tree/master/strings)
-2. [Crawlers](https://github.com/YuriCordeiro/desafios/tree/master/crawlers)
+1. [Manipulação de strings](./strings)
+2. [Crawlers](.crawlers)
 
 ## Pré-requisitos
 1- Possuir o Nodejs Instalado [Node.js](https://nodejs.org/en/)(10x+) instalado no seu ambiente. Você pode verificar se o possui abrindo o seu terminal e digitando o seguinte comando:
