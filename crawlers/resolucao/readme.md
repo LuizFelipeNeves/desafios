@@ -20,11 +20,8 @@ Caso já possua um JDK instalado em seu ambiente, deverá te retornar algo assim
 
 ## Sem Bot, usando o CLI
     $ npm run cli 'cats;brazil'
-    
+
     $ npm run cli [parametro] => por padrao: 'cats;brazil'
-
-
-
 
 
 ## Bot no Telegram
