@@ -16,15 +16,28 @@ Caso já possua um JDK instalado em seu ambiente, deverá te retornar algo assim
 2- Possuir as dependências, Para instalar e rodar a aplicação. Rode o comando seguinte no terminal dentro da pasta do projeto:
 
     $ npm install
+
+
+## Sem Bot, usando o CLI
+    $ npm run cli 'cats;brazil'
+    
+    $ npm run cli [parametro] => por padrao: 'cats;brazil'
+
+
+
+
+
+## Bot no Telegram
+3- Rode o comando:
     $ npm start
 
-3- Crie um bot no telegram, inicie uma conversa com @BotFather, e logo em seguida use o comando: /newbot,
+4- Crie um bot no telegram, inicie uma conversa com @BotFather, e logo em seguida use o comando: /newbot,
 informe o nome, e logo em seguida você receberá um token.
 
-4- configurando o .env, dentro da pasta do projeto crie um arquivo com o nome .env 
+5- configurando o .env, dentro da pasta do projeto crie um arquivo com o nome .env 
 BOT_TOKEN=Seu Token aqui..
 
-3- Envie uma mensagem para o Bot no seguinte formado: /NadaPraFazer cats;brazil
+6- Envie uma mensagem para o Bot no seguinte formado: /NadaPraFazer cats;brazil
 
 Logo em seguida o bot enviará uma resposta, como no exemplo abaixo:
 

@@ -47,4 +47,4 @@ const crawler = async subreddits => {
   return messages.length > 0 ? messages.join("") : "Mensagem vazia...";
 };
 
-module.exports = { crawler };
+module.exports = crawler;
