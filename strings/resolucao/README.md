@@ -1,4 +1,5 @@
 # Solução: Manipulação de strings
+O texto é divido em paragrafos, depois é separado as palavras, e no fim e junta-se as palavras ate chegar ao limite de caracteres por linha.
 
 ## Pré-requisitos
 1- Possuir o Nodejs Instalado [Node.js](https://nodejs.org/en/)(10x+) instalado no seu ambiente. Você pode verificar se o possui abrindo o seu terminal e digitando o seguinte comando:
