@@ -1,4 +1,4 @@
-const { crawler } = require("./crawler");
+const crawler = require("./crawler");
 
 (async () => {
   const text = process.argv[2] || "cats;brazil";
