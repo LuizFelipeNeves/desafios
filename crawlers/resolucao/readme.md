@@ -1,5 +1,9 @@
 # Solução: Manipulação de strings
 
+Como resolução deste desafio, procurei fazer um processo de engenharia reversa e entender como a plataforma funciona, e como ocorre o trafego dos dados.
+Pois há casos em que é necessario trabalhar com poucos recursos e nem sempre é possivel usar um header browser.
+Uma outra abordagem para resolução, seria usar bibliotecas como cheerio, usando selectors, mas neste desafio não utilizei.
+
 ## Pré-requisitos
 1- Possuir o Nodejs Instalado [Node.js](https://nodejs.org/en/)(10x+) instalado no seu ambiente. Você pode verificar se o possui abrindo o seu terminal e digitando o seguinte comando:
 
